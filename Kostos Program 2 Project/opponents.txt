@@ -1,0 +1,10 @@
+Troll,1
+Jinn,1
+Wall
+Troll,0
+Goblin,1
+Troll,1
+Wall
+Troll,0
+Goblin,1
+Jinn,0
